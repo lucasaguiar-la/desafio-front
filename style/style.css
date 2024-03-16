@@ -15,3 +15,14 @@
     --primario: #70b5f9;
     --positivo: #3ec786;
 }
+
+.container{
+    min-height: 100vh;
+}
+
+.main-bkground-container{
+    width: 300px;
+}
+.bkground-img{
+    width: 200px;
+}
