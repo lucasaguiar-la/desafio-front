@@ -1,0 +1,58 @@
+header{
+    height: 42px;
+    font-size: 12px;
+    background-color: var(--fundo-card);
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.search-container{
+    display: flex;
+    height: 40px;
+    gap: 5px;
+    align-items: center;
+}
+.linkedin-icon{
+    width: 40px;
+}
+.material-symbols-outlined{
+    padding: 3.5px;
+    margin-right: -10px;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: var(--input);
+    color: white;
+}
+.search-bar{
+    width: 300px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--input);
+}
+.menu-icons{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    line-height: 5px;
+}
+.list-item{
+    text-align: center;
+    font-size: 7pt;
+}
+.list-item p{
+    margin-left: 10px;
+}
+.material-symbols-outlined{
+    width: 40px;
+    background-color: transparent;
+}
+.apps-icon{
+    border-left: 1px solid white;
+}
+.apps-icon p{
+    margin-left: 15px;
+}
