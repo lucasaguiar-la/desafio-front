@@ -38,6 +38,7 @@ nav{
     gap: 20px;
     list-style: none;
     line-height: 5px;
+    cursor: pointer;
 }
 .list-item{
     text-align: center;
